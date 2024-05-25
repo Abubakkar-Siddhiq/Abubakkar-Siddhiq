@@ -7,7 +7,7 @@
 - 💬 Ask me about Frontend Technologies
 - 📫 How to reach me: [Mail 📧](mailto:siddhiqabu7@gmail.com) & [LinkedIn](https://www.linkedin.com/in/abubakkar-siddhiq/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Big fan of Airbus
+- ⚡ Fun fact: I still look up whenever a plane passes by. (Airbus fan tbh)
 
 ## My skills 🚀
 
