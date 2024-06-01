@@ -1,5 +1,5 @@
 
-<h1 align="center">Assalamualaikum (Hi)👋there!, I am Abubakkar Siddhiq ✨</h1>
+<h1 align="center"> Hi there! 👋, I am Abubakkar Siddhiq ✨</h1>
 <p align="center">
   <img src="https://github.com/Abubakkar-Siddhiq/Abubakkar-Siddhiq/assets/148426945/77532321-de28-45d5-bcbb-581dc0d7157f">
 </p>
