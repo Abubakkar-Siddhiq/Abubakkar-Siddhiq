@@ -1,5 +1,9 @@
 # Hello, I am Abubakkar Siddhiq 👋
 
+<p align="center">
+  <img src="https://github.com/Abubakkar-Siddhiq/Abubakkar-Siddhiq/assets/148426945/77532321-de28-45d5-bcbb-581dc0d7157f">
+</p>
+
 - 🔭 I’m currently working on my Django, Django REST Framework
 - 🌱 I’m currently learning Backend & APIs
 - 👯 I’m looking to collaborate on Full stack web development
@@ -7,7 +11,7 @@
 - 💬 Ask me about Frontend Technologies
 - 📫 How to reach me: [Mail 📧](mailto:siddhiqabu7@gmail.com) & [LinkedIn](https://www.linkedin.com/in/abubakkar-siddhiq/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I still look up whenever a plane passes by. (Airbus fan tbh)
+- ⚡ Fun fact: I still look up whenever a plane passes by 
 
 ## My skills 🚀
 
