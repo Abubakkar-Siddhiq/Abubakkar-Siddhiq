@@ -5,7 +5,7 @@
 </p>
 
 - 🔭 I’m currently working on sharpening my Django, Django REST Framework skills
-- 🌱 I’m currently learning Backend, APIs & Docker
+- 🌱 I’m currently learning Backend, APIs & System Design
 - 👯 I’m looking to collaborate on Full stack web development
 - 🤔 I’m looking for help with Backend & APIs
 - 💬 Ask me about Frontend Technologies
