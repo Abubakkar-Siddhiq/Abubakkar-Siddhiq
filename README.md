@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on Full stack web development
 - 🤔 I’m looking for help with Backend & APIs
 - 💬 Ask me about Frontend Technologies
-- 📫 How to reach me: [Mail 📧](mailto:siddhiqabu7@gmail.com) & [LinkedIn 💼](https://www.linkedin.com/in/abubakkar-siddhiq/)
+- 📫 How to reach me: [LinkedIn 💼](https://www.linkedin.com/in/abubakkar-siddhiq/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I still look up whenever a plane passes by 
 
