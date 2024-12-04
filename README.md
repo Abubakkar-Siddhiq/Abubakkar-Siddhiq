@@ -4,13 +4,12 @@
   <img src="https://github.com/Abubakkar-Siddhiq/Abubakkar-Siddhiq/assets/148426945/77532321-de28-45d5-bcbb-581dc0d7157f">
 </p>
 
-- 🔭 I’m currently working on sharpening my Java, DSA skills
-- 🌱 I’m currently learning Backend, APIs & System Design
+- 🔭 I’m currently working on sharpening my JavaScript and Front-End Skills
 - 👯 I’m looking to collaborate on Full stack web development
 - 🤔 I’m looking for help with Backend & APIs
 - 💬 Ask me about Frontend Technologies
 - 📫 How to reach me: [LinkedIn 💼](https://www.linkedin.com/in/abubakkar-siddhiq/)
-- 😄 Pronouns: Bro/Monsieur
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I still look up whenever a plane passes by.
 
 ## My skills 🚀
