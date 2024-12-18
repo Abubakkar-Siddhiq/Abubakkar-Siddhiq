@@ -10,7 +10,6 @@
 - 💬 Ask me about Frontend Technologies
 - 📫 How to reach me: [LinkedIn 💼](https://www.linkedin.com/in/abubakkar-siddhiq/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I still look up whenever a plane passes by.
 
 ## My skills 🚀
 
